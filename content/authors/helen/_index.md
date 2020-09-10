@@ -21,10 +21,11 @@ organizations:
 bio: Postdoctoral Research Fellow at the University of Oxford with interests in comparative social policy, gender and employment.
 
 interests:
-- Gender segregation in the labour market
+- Gender and employment
 - Family and labour market policies
 - Comparative social policy
 - Female breadwinners
+- Lone motherhood
 - Qualitative comparative analysis
 
 education:
@@ -72,8 +73,10 @@ email: ""
 # - Visitors
 ---
 
-I’m a Postdoctoral Fellow at the Department of Social Policy and Intervention and the Institute for New Economic Thinking at the University of Oxford. As part of the [Oxford Martin Programme on Inequality and Prosperity](https://www.inet.ox.ac.uk/projects/the-oxford-martin-programme-on-inequality-and-prosperity/), my research looks at the relationship between labour market and family policies and women’s employment position across advanced economies. I use both quantitative and qualitative methods in my research, including model family analysis and Qualitative Comparative Analysis.
+I’m a Postdoctoral Fellow at the Department of Social Policy and Intervention and the Institute for New Economic Thinking at the University of Oxford. I’m also affiliated with Nuffield College. I recently returned from maternity leave following the birth of my first child.
 
-I received my [ESRC-funded PhD](https://eprints.soton.ac.uk/417383/1/Helen_Kowalewska_Minor_Corrections.pdf) at the University of Southampton in 2018. The thesis sought to bring a gendered perspective to debates on labour market ‘activation’. For this, I won the [2016 Doctoral Researcher Prize](https://www.southampton.ac.uk/socsci/news/2016/10/social-science-researcher-wins-top-european-award.page), awarded by the Journal of European Social Policy and European Network for Social Policy Analysis for ‘exciting, innovative and scholarly’ work. All three of my papers from my PhD have been published in leading peer-reviewed journals. I also hold an MSc in Social Policy (Distinction) and BSc in Politics (First), both from the University of Southampton.
+Currently, I am working on a New Investigator Grant funded by the Economic and Social Research Council. The project looks at the relationship between labour market and family policies and women’s employment position across advanced economies using qualitative and quantitative methods.
 
-I have also held postdoc positions at the University of Southampton. I was part of the ESRC-funded project, [Female-Breadwinner Families in Europe](http://www.cpc.ac.uk/projects/57/Female_Breadwinner_Families_in_Europe#overview) and have submitted a co-authored paper from this project for peer review. In addition, in 2018 I was awarded an [ESRC Fellowship](http://www.cpc.ac.uk/projects/98/Social_policies_to_support_womens_employment_and_achieve_gender_friendly_workplaces#overview) (grant no. ES/S010793/1), where I examined the impacts of ‘women-friendly’ social policies (maternity leaves, childcare services, etc.) on women’s access to top board positions in private companies through a fuzzy-set analysis. I plan to build on this through a larger three-year project funded through an ESRC New Investigator Grant (no. ES/S010793/1). This will examine the relationship between welfare states and gender segregation in employment across OECD countries.
+I am also working on project on female breadwinners across advanced economies with my co-author Agnese Vitali (University of Trento). In our [latest paper](http://www.lisdatacenter.org/wps/liswps/769.pdf), forthcoming in Journal of European Social Policy, we find that female-breadwinner couples – defined as those in which the woman is in paid work and the man is not – are economically disadvantaged compared with all other couple-types, including their male-breadwinner counterparts, across all welfare regimes.
+
+Prior to my current position, I held postdoc positions at the University of Southampton, where I also received my [ESRC-funded PhD](https://eprints.soton.ac.uk/417383/1/Helen_Kowalewska_Minor_Corrections.pdf)  in 2018. The thesis sought to bring a gendered perspective to debates on labour market ‘activation’. For this, I won the [Doctoral Researcher Prize](https://www.southampton.ac.uk/socsci/news/2016/10/social-science-researcher-wins-top-european-award.page), awarded by the Journal of European Social Policy and European Network for Social Policy Analysis for ‘exciting, innovative and scholarly’ work. Other papers from my PhD have been published in [Social Policy and Society](https://www.cambridge.org/core/journals/social-policy-and-society/article/diminishing-returns-lone-mothers-financial-work-incentives-and-incomes-under-the-coalition/52B87AB5F1B0A9006AD78D1BE4E20D6E) and the [Journal of Social Policy](https://www.cambridge.org/core/journals/journal-of-social-policy/article/bringing-women-on-board-the-social-policy-implications-of-gender-diversity-in-top-jobs/59FE25C7DD363901F07AE089B79BFA2D). I also hold an MSc in Social Policy (Distinction) and BSc in Politics (First), both from the University of Southampton.

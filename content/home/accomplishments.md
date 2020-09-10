@@ -19,14 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of Southampton"
+  organization = "University of Oxford"
   organization_url = ""
-  title = "ESRC Postdoctoral Fellowship for 12 months at 100% FTE"
+  title = "ESRC New Investigator Grant (36 months)"
   url = ""
   certificate_url = ""
-  date_start = "2018-01-01"
-  date_end = "2019-12-01"
-  description = "Amount awarded: £104,044."
+  date_start = "2020-01-01"
+  date_end = ""
+  description = "Principal Investigator on the project, ‘Welfare State Interventions and Occupational Gender Segregation: Paradise or Paradox?’"
+
+[[item]]
+  organization = "University of Southampton"
+  organization_url = ""
+  title = "ESRC Postdoctoral Fellowship (12 months)"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
+  description = "Principal Investigator on the project, ‘Social Policies to Support Women’s Employment and Achieve Gender-Friendly Workplaces.’"
 
 [[item]]
   organization = "University of Southampton"
@@ -61,12 +71,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Southampton"
   organization_url = ""
-  title = "ESRC 1+3 Studentship Award."
+  title = "ESRC 1+3 Studentship Award (48 months)"
   url = ""
   certificate_url = ""
-  date_start = "2012-03-01"
-  date_end = "2016-03-01"
-  description = ""
+  date_start = "2012-09-01"
+  date_end = ""
+  description = "Awarded to support completion of the MSc in Social Policy and Social Research and a PhD in Social Policy that looked at the relationship between welfare states and women’s employment outcomes in comparative perspective."
 
 [[item]]
   organization = "University of Southampton"
@@ -84,8 +94,8 @@ date_format = "Jan 2006"
   title = "Peter G Richards Bursary, Liam O’Sullivan Prize, Heather Packwood Prize, and Politics and International Relations Year 1 Performance Prize."
   url = ""
   certificate_url = ""
-  date_start = "2010-03-01"
-  date_end = "2012-03-01"
+  date_start = "2010-06-01"
+  date_end = "2012-07-01"
   description = "Awarded by the University of Southampton for best overall performance in each year of the BSc and for highest dissertation mark." 
 
 +++

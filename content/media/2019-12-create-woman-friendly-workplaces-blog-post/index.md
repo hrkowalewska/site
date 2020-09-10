@@ -1,28 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Bringing Women on Board? Family Policies, Quotas, and Gender Diversity in Top Jobs."
+title: "Bringing Women on Board(s) to Create ‘Women-Friendly’ Workplaces"
 authors: ["helen"]
-date: 2019-07-02T00:00:00+01:00
+date: 2019-12-16T00:00:00+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-06-24T18:06:49+01:00
+publishDate: 2019-12-16T00:00:00+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "socialpolicyblog.com"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "[socialpolicyblog.com](https://socialpolicyblog.com/2019/12/16/bringing-women-on-boards-to-create-women-friendly-workplaces/), 16 December 2019: While debates on bringing more women onto companies’ boards have raged for many years, they have really gained traction since the early-2010s. Arguments in favour of gender-diverse boards generally focus on the business case or justice and equality. My article draws attention to another important but often overlooked benefit: the creation of more ‘women-friendly’ workplaces."
 
 tags: []
 categories: []
@@ -36,14 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+url_source: "https://socialpolicyblog.com/2019/12/16/bringing-women-on-boards-to-create-women-friendly-workplaces/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
