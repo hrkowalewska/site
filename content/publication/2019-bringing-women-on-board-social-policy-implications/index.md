@@ -3,7 +3,7 @@
 
 title: "Bringing Women on Board: The Social Policy Implications of Gender Diversity in Top Jobs."
 authors: ["helen"]
-date: 2019-07-01T00:00:00+01:00
+date: 2020-10-01T00:00:00+01:00
 doi: "10.1017/S0047279419000722"
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
