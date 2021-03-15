@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:h.r.kowalewska@soton.ac.uk'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:helen.kowalewska@spi.ox.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/helenkowalewska
