@@ -3,11 +3,11 @@
 
 title: "Breadwinning or on the Breadline? Female Breadwinners’ Economic Characteristics across 20 Welfare States"
 authors: ["helen", "agnese"]
-date: 2020-09-02T00:00:00+01:00
+date: 2021-05-02T00:00:00+01:00
 doi: "10.1177/0958928720971094"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-09-02T18:06:49+01:00
+publishDate: 2021-05-02T18:06:49+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
