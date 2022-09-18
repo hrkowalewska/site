@@ -19,6 +19,16 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "University of Bath"
+  organization_url = ""
+  title = "Lecturer for 'Sociology of the Family and Family Policy’"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-10-03"
+  date_end = ""
+  description = "Second/third-year module for BSc degrees."
+
+[[item]]
   organization = "University of Southampton"
   organization_url = ""
   title = "Lecturer for ‘Population Processes in the Developed World’"
