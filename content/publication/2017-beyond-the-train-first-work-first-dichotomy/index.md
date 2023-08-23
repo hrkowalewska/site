@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Beyond the ‘Train-First’/‘Work-First’ Dichotomy: How Welfare States Help or Hinder Maternal Employment."
+title: "Beyond the ‘Train-First’/‘Work-First’ Dichotomy: How Welfare States Help or Hinder Maternal Employment"
 authors: ["helen"]
 date: 2017-10-27T00:00:00+01:00
 doi: "10.1177/0958928716673316"

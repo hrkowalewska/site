@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Diminishing Returns: Lone Mothers’ Work Incentives and Incomes under the Coalition."
+title: "Diminishing Returns: Lone Mothers’ Work Incentives and Incomes under the Coalition"
 authors: ["helen"]
 date: 2015-06-25T00:00:00+01:00
 doi: "10.1017/S1474746415000330"

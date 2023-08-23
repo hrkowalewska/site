@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Active Welfare State: Towards a Gender-Friendly Approach."
+title: "The Active Welfare State: Towards a Gender-Friendly Approach"
 authors: ["helen"]
 date: 2017-06-01T00:00:00+01:00
 doi: ""

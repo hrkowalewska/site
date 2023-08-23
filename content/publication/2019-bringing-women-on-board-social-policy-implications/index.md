@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Bringing Women on Board: The Social Policy Implications of Gender Diversity in Top Jobs."
+title: "Bringing Women on Board: The Social Policy Implications of Gender Diversity in Top Jobs"
 authors: ["helen"]
 date: 2020-10-01T00:00:00+01:00
 doi: "10.1017/S0047279419000722"
