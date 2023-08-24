@@ -72,7 +72,7 @@ email: ""
 # - Visitors
 ---
 
-I’m a Lecturer/Assistant Professor in Social Policy at the University of Bath. My research examines women's employment across industrialised countries, particularly among female-headed households and how social policies reduce or potentially increase gender inequalities in paid work. Currently, I'm working on my [New Investigator Grant](https://helenkowalewska.uk/project/esrc-new-investigators-grant/) funded by the Economic and Social Research Council.
+My research examines women's employment across industrialised countries, particularly among female-headed households and how social policies reduce or potentially increase gender inequalities in paid work. Currently, I'm working on my [New Investigator Grant](https://helenkowalewska.uk/project/esrc-new-investigators-grant/) funded by the Economic and Social Research Council.
 
 My research has been published in [European Sociological Review](https://doi.org/10.1093/esr/jcad034), [Work, Employment & Society](https://doi.org/10.1177%2F0950017020971221), [Journal of European Social Policy](https://doi.org/10.1177/0958928716673316), [Journal of Social Policy](https://doi.org/10.1017/S0047279419000722), and [Social Policy & Society](https://doi.org/10.1017/S1474746415000330) and has been featured in the media, such as in [The Independent](https://www.independent.co.uk/news/uk/home-news/unemployed-men-masculinity-gender-roles-b2364228.html).
 
