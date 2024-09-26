@@ -76,4 +76,4 @@ My research examines women's employment across industrialised countries and how 
 
 My research has been published in [European Sociological Review](https://doi.org/10.1093/esr/jcad034), [Work, Employment & Society](https://doi.org/10.1177%2F0950017020971221), [Journal of European Social Policy](https://doi.org/10.1177/0958928716673316), [Journal of Social Policy](https://doi.org/10.1017/S0047279419000722), and [Social Policy & Society](https://doi.org/10.1017/S1474746415000330) and has been featured in the media, such as in [The Independent](https://www.independent.co.uk/news/uk/home-news/unemployed-men-masculinity-gender-roles-b2364228.html).
 
-A copy of my CV is located [here](https://drive.google.com/file/d/1VyIQ0ZXsxVpPEDFE3uyUzpW_MAvpVcir/view?usp=drive_link).
+A copy of my CV is located [here](https://drive.google.com/file/d/1yP0_IyYIPNgpsKx3aDsk7Cy4_h0R0bB-/view).
