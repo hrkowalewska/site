@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "University of Bath"
+  organization_url = ""
+  title = "BA/Leverhulme Small Research Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-01-01"
+  date_end = ""
+  description = "Principal Investigator on the project, ‘Too Old to Hire, Too Young to Retire? Women’s Job-Seeking Experiences After Age 50.'"
+
+[[item]]
   organization = "University of Oxford"
   organization_url = ""
   title = "ESRC New Investigator Grant"
