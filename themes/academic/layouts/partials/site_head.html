@@ -146,10 +146,14 @@
   <link rel="canonical" href="{{ .Permalink }}">
 
   {{ $featured_image := (.Resources.ByType "image").GetMatch "*featured*" }}
+  <!-- This main_image is a way to use an image from the content dir which is not a featured image. -->
+  {{ $main_image := (.Resources.ByType "image").GetMatch "*main*" }}
   {{ $og_image := "" }}
   {{ $twitter_card := "summary_large_image" }}
   {{ if $featured_image }}
     {{ $og_image = $featured_image.Permalink }}
+  {{ else if $main_image }}
+  {{ $og_image = $main_image.Permalink }}
   {{ else if .Params.header.image }}
     {{ $og_image = printf "img/%s" .Params.header.image | absURL }}
   {{ else if site.Params.sharing_image }}

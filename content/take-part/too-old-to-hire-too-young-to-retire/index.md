@@ -46,7 +46,7 @@ slides: ""
 *We’re looking for interviewees to share their experiences for a study on
 job-seeking among women aged 50+.*
 
-![woman shopping for food](./image.jpeg)
+![woman shopping for food](./main.jpeg)
 
 ## Study Information
 
