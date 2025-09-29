@@ -21,12 +21,12 @@ date_format = "2006"
 [[item]]
   organization = "University of Bath"
   organization_url = ""
-  title = "Lecturer for 'Sociology of the Family and Family Policy’"
+  title = "Unit Convenor for 'Sociology of the Family and Family Policy’"
   url = ""
   certificate_url = ""
   date_start = "2022-10-03"
   date_end = ""
-  description = "Second/third-year module for BSc degrees."
+  description = "Second/third-year module for BSc degrees.<br><br>[Unit handbook](/teaching/sociology-of-the-family-and-family-policy-unit-handbook.pdf)"
 
 [[item]]
   organization = "University of Southampton"
@@ -36,7 +36,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2019-01-01"
   date_end = ""
-  description = "Second-year module for BSc degrees in geography and population studies. Designed and delivered four lectures and one seminar on gender, fertility, and employment.<br><br>[Sample lecture](http://helenkowalewska.uk/wp-content/uploads/2019/04/DEMO2005-Family-Policies-and-Womens-Employment-I.pdf)"
+  description = "Second-year module for BSc degrees in geography and population studies. Designed and delivered four lectures and one seminar on gender, fertility, and employment."
 
   [[item]]
   organization = "University of Southampton"
@@ -46,7 +46,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2019-01-01"
   date_end = ""
-  description = "First-year module for various BSc degrees in sociology, social policy, and criminology. Designed and delivered three lectures on new social risks and gender and welfare states.<br><br>[Sample lecture](http://helenkowalewska.uk/wp-content/uploads/2019/04/SOCI1015-%E2%80%98New%E2%80%99-Versus-%E2%80%98Old%E2%80%99-Social-Risks.pdf)"
+  description = "First-year module for various BSc degrees in sociology, social policy, and criminology. Designed and delivered three lectures on new social risks and gender and welfare states."
 
   [[item]]
   organization = "University of Southampton"

@@ -1,0 +1,11 @@
+name: helenkowalewska.uk
+
+services:
+  server:
+    image: hugomods/hugo:0.116.1
+    command: hugo server -D --bind 0.0.0.0
+    volumes:
+      - ./:/src
+      - ~/hugo_cache:/tmp/hugo_cache
+    ports:
+      - 1313:1313
