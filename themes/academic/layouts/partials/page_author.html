@@ -24,7 +24,7 @@
   {{ if and (not site.Data.organization.name) (eq .Params.superuser true) }}
     {{ $profile_url = site.BaseURL }}
   {{ end }}
-  {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+  {{ $avatar := (.Resources.ByType "image").GetMatch "avatar*" }}
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     {{ if and site.Params.gravatar .Params.email }}
       <img class="portrait mr-3" src="https://s.gravatar.com/avatar/{{ md5 .Params.email }}?s=200')" itemprop="image" alt="Avatar">
