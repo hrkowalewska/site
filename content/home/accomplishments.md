@@ -21,12 +21,52 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Bath"
   organization_url = ""
+  title = "Outstanding Contribution Award"
+  url = "https://www.bath.ac.uk/guides/nominating-someone-for-the-outstanding-contribution-scheme/"
+  certificate_url = ""
+  date_start = "2025-12-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "European Sociological Review"
+  organization_url = ""
+  title = "Runner Up: Best Article of the Year Prize"
+  url = "https://academic.oup.com/esr/pages/best_article_prize#:~:text=The%20female%2Dbreadwinner%20well%2Dbeing%20‘penalty’%3A%20differences%20by%20men’s%20(un)employment%20and%20country%0AHelen%20Kowalewska%20and%20Agnese%20Vitali%3A%0AEuropean%20Sociological%20Review%2C%20Volume%2040%2C%20Issue%202%2C%20April%202024%2C%20Pages%20293–308%2C%C2%A0https%3A//doi.org/10.1093/esr/jcad034"
+  certificate_url = ""
+  date_start = "2025-09-03"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Purdue University Center for Families"
+  organization_url = ""
+  title = "Nominee for the Moss Kanter International Award for Research Excellence in Work and Family"
+  url = "https://centers.purdue.edu/cff/initiatives/kanteraward/nominees/#_2025"
+  certificate_url = ""
+  date_start = "2025-05-21"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "University of Bath"
+  organization_url = ""
   title = "BA/Leverhulme Small Research Grant"
   url = ""
   certificate_url = ""
   date_start = "2025-01-01"
   date_end = ""
   description = "Principal Investigator on the project, ‘Too Old to Hire, Too Young to Retire? Women’s Job-Seeking Experiences After Age 50.'"
+
+[[item]]
+  organization = "University of Bath"
+  organization_url = ""
+  title = "Returning Parents Support Fund"
+  url = "https://www.bath.ac.uk/guides/returning-parents-support-fund/"
+  certificate_url = ""
+  date_start = "2024-09-11"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "University of Oxford"
